@@ -1,0 +1,17 @@
+{
+  "name": "async-unittest",
+  "version": "1.0.0",
+  "main": "async.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0"
+  },
+  "devDependencies": {
+    "vitest": "^0.34.6"
+  }
+}
